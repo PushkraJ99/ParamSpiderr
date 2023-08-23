@@ -1,13 +1,8 @@
-
-  
-
 ## ParamSpider : Parameter miner for humans
 
 ![ParamSpider](https://raw.githubusercontent.com/devanshbatham/ParamSpider/master/static/banner.PNG)
 
 ### Key Features :
-
-  
 
 - Finds parameters from web archives of the entered domain.
 
@@ -19,7 +14,7 @@
 
 - It mines the parameters from web archives (without interacting with the target host)
 
-  
+
 
 ### Usage instructions :
 
@@ -32,7 +27,6 @@ $ pip3 install -r requirements.txt
 $ python3 paramspider.py --domain hackerone.com
 ```
 
-  
 
 ### Usage options :
 
@@ -63,15 +57,12 @@ $ python3 paramspider.py --domain hackerone.com --subs False
 
 ### ParamSpider + GF (for massive pwnage)
 
-  
 
 Lets say you have already installed ParamSpider and now you want to filter out the juicy parameters from plethora of parameters. No worries you can easily do it using [GF(by tomnomnom)](https://github.com/tomnomnom/gf) .
 
-  
 
 **Note** : Make sure you have [go](https://golang.org/doc/install) properly installed on your machine .
 
-  
 
 **Follow along this :**
 
@@ -96,7 +87,6 @@ $ gf wordpress domain.txt //for wordpress urls
 [More GF profiles to be added in future]
 ```
 
-  
 
 ## Example :
 
@@ -104,33 +94,11 @@ $ gf wordpress domain.txt //for wordpress urls
 $ python3 paramspider.py --domain bugcrowd.com --exclude woff,css,js,png,svg,php,jpg --output bugcrowd.txt
 ```
 
-  
 
 ![](https://raw.githubusercontent.com/devanshbatham/ParamSpider/master/static/example.PNG)
 
   
 
-#### Note :
-
-```
-As it fetches the parameters from web archive data ,
-so chances of false positives are high.
-```
-
-### Contributing to ParamSpider :
-
- - Report bugs , missing best practices 
- - Shoot my [DM](https://twitter.com/0xAsm0d3us) with new ideas 
- - Make more GF profiles (.json files)
- - Help in Fixing bugs
- - Submit Pull requests 
-
- 
-  
-
-### My Twitter :
-
-
-**Say hello** : [0xAsm0d3us](https://twitter.com/0xAsm0d3us)
-
+## 🌐 Twitter:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=PushkraJ99) 
 
