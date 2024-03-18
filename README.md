@@ -21,7 +21,7 @@
 ```
 Note : Use python 3.7+
 
-$ git clone https://github.com/devanshbatham/ParamSpider
+$ git clone https://github.com/PushkraJ99/ParamSpider
 $ cd ParamSpider
 $ pip3 install -r requirements.txt
 $ python3 paramspider.py --domain hackerone.com
