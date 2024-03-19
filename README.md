@@ -1,6 +1,6 @@
 ## ParamSpider : Parameter miner for humans
 
-![ParamSpider](https://raw.githubusercontent.com/devanshbatham/ParamSpider/master/static/banner.PNG)
+![ParamSpider](https://github.com/devanshbatham/ParamSpider/raw/master/static/paramspider.png?raw=true)
 
 ### Key Features :
 
