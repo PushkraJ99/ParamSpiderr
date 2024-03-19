@@ -1,8 +1,7 @@
 <h1 align="center">
     ParamSpider : Parameter Miner For Humans
-<br> <h4> OLD Version Of ParamSpider </h4> </h1>
-
- 
+<br></h1>
+<h4 align="center">  Mining URLs from Dark Corners of Web Archives for Bug Hunting/Fuzzing/Further Probing <br> OLD Version Of ParamSpider </h4>
 
 --- 
 
