@@ -1,7 +1,7 @@
 <h1 align="center">
     ParamSpider : Parameter Miner For Humans
   <br></h1>
-OLD Version Of ParamSpider
+<center> OLD Version Of ParamSpider </center>
 
 --- 
 
