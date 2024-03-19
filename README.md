@@ -2,7 +2,9 @@
     ParamSpider : Parameter Miner For Humans
   <br></h1>
 OLD Version Of ParamSpider
----
+
+--- 
+
 ![paramspider](https://github.com/PushkraJ99/ParamSpider/blob/master/static/paramspider.png?raw=true)
 
 ### Key Features :
