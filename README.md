@@ -26,8 +26,8 @@
 ```
 Note : Use python 3.7+
 
-$ git clone https://github.com/PushkraJ99/paramspider
-$ cd ParamSpider
+$ git clone https://github.com/PushkraJ99/ParamSpiderr
+$ cd ParamSpiderr
 $ pip3 install -r requirements.txt
 $ python3 paramspider.py --domain domain.com
 ```
