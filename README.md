@@ -1,6 +1,9 @@
-## ParamSpider : Parameter miner for humans
-
-![ParamSpider](https://github.com/devanshbatham/ParamSpider/raw/master/static/paramspider.png?raw=true)
+<h1 align="center">
+    ParamSpider : Parameter Miner For Humans
+  <br></h1>
+OLD Version Of ParamSpider
+---
+![paramspider](https://github.com/PushkraJ99/ParamSpider/blob/master/static/paramspider.png?raw=true)
 
 ### Key Features :
 
@@ -21,10 +24,10 @@
 ```
 Note : Use python 3.7+
 
-$ git clone https://github.com/PushkraJ99/ParamSpider
+$ git clone https://github.com/PushkraJ99/paramspider
 $ cd ParamSpider
 $ pip3 install -r requirements.txt
-$ python3 paramspider.py --domain hackerone.com
+$ python3 paramspider.py --domain domain.com
 ```
 
 
@@ -75,7 +78,7 @@ Note : Replace '/User/levi/go/bin/gf' with the path where gf binary is located i
 $ alias gf='/User/levi/go/bin/gf'
 $ cd ~/.gf/
 
-Note : Paste JSON files(https://github.com/devanshbatham/ParamSpider/tree/master/gf_profiles) in ~/.gf/ folder
+Note : Paste JSON files(https://github.com/PushkraJ99/paramspider/tree/master/gf_profiles) in ~/.gf/ folder
 
 Now run ParamSpider and navigate to the output directory
 
